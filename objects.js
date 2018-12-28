@@ -4,8 +4,8 @@ artist: "artistName",
 song: "songTitle"
 };
 
-playlist.artistName = [ "Lana Del Rey", "Grimes"];
-playlist.songTitle = [ "Love", "Vanessa"];
+playlist.artistName = [ "Phil Ochs", "Grimes"];
+playlist.songTitle = [ "My Bloody Valentine", "Slowdive"];
 
 function updatePlaylist(thePlaylist, artistName, songTitle) {
   return Object.assign({}, thePlaylist, { [artistName]: songTitle});
