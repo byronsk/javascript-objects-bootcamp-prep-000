@@ -1,7 +1,7 @@
 
 var playlist = {
-artist name: "artist",
-song title: "song"
+artist: "artist",
+song: "song"
 };
 
 playlist.artist = [ "Lana Del Rey", "Grimes"];
