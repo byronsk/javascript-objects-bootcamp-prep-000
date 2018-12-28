@@ -1,8 +1,12 @@
 
 var playlist = {
-artist: "artist",
-song: "song"
+artist: "artistName",
+song: "songTitle"
 };
 
-playlist.artist = [ "Lana Del Rey", "Grimes"];
-playlist.song = [ "Love", "Vanessa"];
+playlist.artistName = [ "Lana Del Rey", "Grimes"];
+playlist.songTitle = [ "Love", "Vanessa"];
+
+function updatePlaylist(targetObject, updatesObject) {
+  return Object.assign({}), targetObject, updatesObject)
+}
