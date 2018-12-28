@@ -1,6 +1,5 @@
 
-var playlist = {
-  PhilOchs: "My Bloody Valentine",
+var playlist {
   Grimes: "Slowdive"
 };
 
