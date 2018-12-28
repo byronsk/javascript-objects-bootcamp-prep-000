@@ -7,6 +7,6 @@ song: "songTitle"
 playlist.artistName = [ "Lana Del Rey", "Grimes"];
 playlist.songTitle = [ "Love", "Vanessa"];
 
-function updatePlaylistWithObject(targetObject, updatesObject) {
+function updatePlaylistWithartistName(targetObject, updatesObject) {
   return Object.assign({}), targetObject, updatesObject)
 }
