@@ -1,7 +1,7 @@
 
 var playlist = {
-Phil Ochs: "song",
-Grimes: "song"
+  PhilOchs: "My Bloody Valentine",
+  Grimes: "Slowdive"
 };
 
 playlist.artistName = [ "Phil Ochs", "Grimes"];
