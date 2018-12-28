@@ -1,8 +1,6 @@
 
 var playlist = {
-artist: "artistName",
-song: "songTitle"
-};
+Phil Ochs
 
 playlist.artistName = [ "Phil Ochs", "Grimes"];
 playlist.songTitle = [ "My Bloody Valentine", "Slowdive"];
